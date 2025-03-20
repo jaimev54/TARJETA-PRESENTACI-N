@@ -27,7 +27,7 @@ body {
 }
 
 .card:hover {
-    box-shadow: 0 5px 15px rgba(3, 89, 92, .5);
+    box-shadow: 0 5px 15px rgba(5, 3, 92, 0.5);
     transform: translateY(-15px);
 }
 
@@ -42,7 +42,7 @@ body {
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    background: #0b6f72;
+    background: #0f0e72;
     bottom: 0;
     
 }
@@ -78,11 +78,11 @@ body {
 }
 
 .card .description h3 {
-    color: #05383a;
+    color: #1d146b;
 }
 
 .card .description h4 {
-    color: #1c5a5c;
+    color: #141562;
 }
 
 .card .description p {
@@ -102,7 +102,7 @@ body {
 .card .contact a {
     text-decoration: none;
     color: #fff;
-    background: #157579;
+    background: #2b1579;
     padding: 5px 20px;
     border-radius: 5px;
     transition: .3s;
